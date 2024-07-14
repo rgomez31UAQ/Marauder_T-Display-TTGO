@@ -5,11 +5,10 @@
 
 <div align="left">
 
-## TTGO T-Display 1.14in v13.10 NOT FULLY FUNCTIONAL 
-The bin files located in this repo are for 13.6 marauder which is fully functional. The sketch files are for (Fully Functional 13.6) & (Non Functional 13.10 which flashes fine but is having button issues).  I'm still trying to solve the button issue/s and will push updates as soon I find a fix.
+## TTGO T-Display 1.14 in v13.10 NO FUNCIONA COMPLETAMENTE 
+Los archivos bin ubicados en este repo son para 13.6 marauder que es completamente funcional. Los archivos sketch son para (Totalmente funcional 13,6) & (13.10 no funcional que parpadea bien pero tiene problemas con los botones).  Sigo intentando resolver el problema de los botones y enviaré actualizaciones en cuanto encuentre una solución.
 
-Use the provided User_setup files to compile in Arduino. (Backup current User_setup files before adding these from this repo)
-
+Utilice los archivos User_setup proporcionados para compilar en Arduino. (Haga una copia de seguridad de los archivos User_setup actuales antes de añadirlos desde este repositorio).
 </div>
 
 ---
